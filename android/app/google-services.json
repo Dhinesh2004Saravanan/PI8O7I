@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "679355761237",
+    "project_id": "imagepro-246e8",
+    "storage_bucket": "imagepro-246e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679355761237:android:70022d7fa96ff0ce71cadc",
+        "android_client_info": {
+          "package_name": "com.example.ubiint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679355761237-scve7ru8kan1r0qpd7nj68f5bq1ks69o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKAWJJhk0kjvX8HLtBmKlfZISTpWV2pgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679355761237-scve7ru8kan1r0qpd7nj68f5bq1ks69o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
